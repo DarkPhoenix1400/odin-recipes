@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 300px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    text-align: center;
+}
+
+.title{
+    background-color: aqua;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
